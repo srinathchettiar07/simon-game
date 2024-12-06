@@ -1,0 +1,12 @@
+.font{
+    font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.round{
+    border-radius: 50px;
+    border: 10px solid black;
+}
+.animate{
+    opacity: 0.5;
+}
